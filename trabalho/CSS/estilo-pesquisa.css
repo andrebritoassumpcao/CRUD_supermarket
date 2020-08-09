@@ -1,0 +1,8 @@
+div#msg{
+   width: 600px;
+    margin: 10px auto;
+    padding: 20px 88px;
+    background-color: rgba(50,205,50,.3);
+    border: 1px solid rgb(34,139,34);
+
+}
